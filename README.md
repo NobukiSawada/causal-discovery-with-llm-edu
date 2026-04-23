@@ -44,7 +44,7 @@ If you use this code or these templates in your research, please cite our paper:
   author={Sawada, Nobuki and Hsu, Chia-Yu and Okumura, Kouki and Ogata, Hiroaki},
   booktitle={Proceedings of the 34th International Conference on Computers in Education (ICCE 2026)},
   year={2026}
+}
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-}
